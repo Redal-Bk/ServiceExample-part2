@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendQarchakData", "SendQarchakData\SendQarchakData.csproj", "{CA1E1FDD-7EC4-475C-9979-382CC6892095}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA1E1FDD-7EC4-475C-9979-382CC6892095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA1E1FDD-7EC4-475C-9979-382CC6892095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA1E1FDD-7EC4-475C-9979-382CC6892095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA1E1FDD-7EC4-475C-9979-382CC6892095}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {748756F5-1C5F-43FF-860D-263FFB0B1DC0}
+	EndGlobalSection
+EndGlobal
